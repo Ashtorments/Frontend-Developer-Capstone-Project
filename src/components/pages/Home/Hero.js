@@ -9,9 +9,9 @@ const Hero = () => {
       <div className="container grid">
         <div className="hero-information">
           <h1>Little Lemon</h1>
-          <h2>Chicago</h2>
+          <h2>Delhi</h2>
           <p>
-            We are a family owned Mediterranean restaurant, 
+            We are a family owned Veg restaurant, 
             focused on traditional recipes served with a modern twist.
           </p>
           <Link className="button-primary" to={pages.get('bookings').path}>

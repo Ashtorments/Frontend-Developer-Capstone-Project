@@ -12,18 +12,17 @@ const meals = [
     image: greekSaladImage,
     price: '$12.99',
     description: `The famous greek salad of crispy lettuce, peppers, olives and 
-      our Chicago style feta cheese, garnished with crunchy garlic and rosemary 
-      croutons.`,
+      our Indian style feta cheese, garnished with crunchy garlic.`,
   },
   {
-    name: 'Bruschetta',
+    name: 'Garlic Bread',
     image: bruschettaImage,
     price: '$5.99',
-    description: `Our Bruschetta is made from grilled bread that has been 
+    description: `Made from grilled bread that has been 
       smeared with garlic and seasoned with salt and olive oil.`,
   },
   {
-    name: 'Lemon Dessert',
+    name: 'Lemon Special Dessert',
     image: lemonDessertImage,
     price: '$5.00',
     description: `This comes straight from grandma's recipe book, every last 
